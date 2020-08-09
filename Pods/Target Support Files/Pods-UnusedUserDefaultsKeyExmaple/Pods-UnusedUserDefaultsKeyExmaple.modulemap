@@ -1,0 +1,6 @@
+framework module Pods_UnusedUserDefaultsKeyExmaple {
+  umbrella header "Pods-UnusedUserDefaultsKeyExmaple-umbrella.h"
+
+  export *
+  module * { export * }
+}
